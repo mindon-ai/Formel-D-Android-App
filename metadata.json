@@ -1,0 +1,6 @@
+{
+  "name": "Formel D QC",
+  "description": "Formel D Quality Control inspection app for Renault automotive parts on Zebra rugged handhelds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
